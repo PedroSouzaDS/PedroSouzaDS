@@ -7,7 +7,9 @@ Such knowledges took me into the *Data Science* world, where I found what I want
 Here you will find my whole *Data Science* projects and get a very good sense about my skills in the area solving a real business cases, where each repository represents a different one project. My following skills are:
 
 👨🏽‍💻**Python scripts:** Web Scraping, Data Wrangling, Data Processing, Data Analysis and Machine Learning *(Preditive and Descritive)* 
+
 📊**MS Power B.I.:**  Business Inteligence trough the Insights, Preparing Data in DAX (the own Power B.I. language) or Python scripts
+
 💻**Relational  Data Bank:** MS Excel, MySQL.
 
 
