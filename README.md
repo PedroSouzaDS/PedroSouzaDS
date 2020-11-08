@@ -10,7 +10,7 @@ Here you will find my whole *Data Science* projects and get a very good sense ab
 
 📊**MS Power B.I.:**  Business Inteligence trough the Insights, Preparing Data in DAX (the own Power B.I. language) or Python scripts
 
-💻**Relational  Data Bank:** MS Excel, MySQL.
+💻**Relational  Data Bank:** MySQL.
 
 
 My aim here is:
