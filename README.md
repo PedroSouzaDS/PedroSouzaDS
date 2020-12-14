@@ -2,7 +2,7 @@
 
 My name is Pedro Fernandes and I'm graduating in Production/Industrial Engeneering by Ouro Preto Federal University (UFOP) in Minas Gerais wich the course emphasis is *Stats Modeling and Production Sequenciation*. I was born in Belo Horizonte-MG but currently I'm living Ouro Preto-MG/São Paulo-SP 🚌 ✈️. 
 
-👨🏽‍💻**Languages:** Python for Data Science and Machine Learning and SQL. 
+👨🏽‍💻**Languages:** Python and SQL for Data Science and Big Data.
 
 📊**Dataviz with MS Power B.I.:**  insights for Business Inteligence, DAX and Python Integration for transformation and more visualizations resources.
 
