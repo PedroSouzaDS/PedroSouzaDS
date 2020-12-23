@@ -1,6 +1,6 @@
 ## Hello Everyone, how are you? 😁✌️
 
-My name is Pedro Fernandes and I'm graduating in Production/Industrial Engeneering by Ouro Preto Federal University (UFOP) in Minas Gerais wich the course emphasis is *Stats Modeling and Production Sequenciation*. I was born in Belo Horizonte-MG but currently I'm living Ouro Preto-MG/São Paulo-SP 🚌 ✈️. 
+My name is Pedro Fernandes and I'm graduating in Production/Industrial Engeneering by Ouro Preto Federal University (UFOP) in Minas Gerais wich the course emphasis is *Stats Modeling and Production Sequenciation*. I was born in Belo Horizonte-MG but currently I'm living in São Paulo-SP. 
 
 👨🏽‍💻**Languages:** Python and SQL for Data Science and Big Data.
 
